@@ -1,0 +1,7 @@
+	Age
+O2	Old
+O1	Old
+O3	Old
+Y1	Young
+Y2	Young
+Y3	Young
