@@ -5,3 +5,6 @@ Gene/TE differential expression analysis between young cells and cells before CC
 
 (2) R.DNMT1.expression
 Generate heatmap of DNMT1 expression in different tissues of BMR and mouse. 
+
+(3) detect-stopcodon.pl
+Script to detect premature stop codon
